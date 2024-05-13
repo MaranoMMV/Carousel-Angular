@@ -1,0 +1,29 @@
+.carousel {
+    width: 100vw; /* Define a largura como 100% da viewport */
+    height: 100vh; /* Define a altura como 100% da viewport */
+    overflow: hidden; /* Esconde qualquer conteúdo que ultrapasse o carrossel */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+  }
+  
+  .slide {
+    width: 100%; /* Define a largura da imagem como 100% do slide */
+    height: 100vh; /* Define a altura da imagem como 100% do slide */
+    object-fit: cover; /* Faz a imagem cobrir toda a área do slide */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+    overflow: hidden;
+  }
+
+  .slide img {
+    width: 100%; /* Define a largura da imagem como 100% do slide */
+    height:100vh; /* Define a altura da imagem como 100% do slide */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+  }

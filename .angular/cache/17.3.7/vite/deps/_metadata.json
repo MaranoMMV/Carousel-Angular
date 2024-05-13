@@ -1,0 +1,43 @@
+{
+  "hash": "009a5756",
+  "configHash": "99cce891",
+  "lockfileHash": "428db70c",
+  "browserHash": "338b3499",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "181726e6",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "85335e62",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "a340fd33",
+      "needsInterop": false
+    },
+    "ngx-slick-carousel": {
+      "src": "../../../../../node_modules/ngx-slick-carousel/fesm2022/ngx-slick-carousel.mjs",
+      "file": "ngx-slick-carousel.js",
+      "fileHash": "a8d463a8",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-GRGUZFX5": {
+      "file": "chunk-GRGUZFX5.js"
+    },
+    "chunk-UG6EYDSR": {
+      "file": "chunk-UG6EYDSR.js"
+    },
+    "chunk-ORL24GRQ": {
+      "file": "chunk-ORL24GRQ.js"
+    }
+  }
+}
